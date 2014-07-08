@@ -1,2 +1,2 @@
 to add this mode simply run :
-python setup.py
+python setup.py install
